@@ -1,8 +1,10 @@
-Connect Four is a classic two-player strategy game where the goal is to connect four of your colored discs before your opponent. It's played on a 8x8 grid where players take turns dropping their discs into the lowest available slot in any column.
+<strong><h1>Description</h1>
+Connect Four is a classic two-player strategy game where the goal is to connect four of your colored discs before your opponent. It's played on a 8x8 grid where players take turns dropping their discs into the lowest available slot in any column.<br>
 There are total four option 1: to start the game 2) for credits 3) for rules
-The first player to take a turn will be assigned with color and dice A or B randomly
-The player which will connect 4 of the same colours horizontally, vertically, Diagonally or non-diagonally will wil
-Here are the snippets of the game
+<br>The first player to take a turn will be assigned with color and dice A or B randomly
+<br>The player which will connect 4 of the same colours horizontally, vertically, Diagonally or non-diagonally will wil
+
+<br>Here are the snippets of the game
 
 
 ![image](https://github.com/Hussnain6/Connect-4/assets/151820982/e27ea0f2-8396-42c3-81e0-055c298b156f)
